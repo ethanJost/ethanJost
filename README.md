@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ethan! <br/><a Here are a few of my projects! If you want to see them in action I have walkthroughs for all my projects.</h1>
+<h1>Hi, I'm Ethan! <br/><a>Here are a few of my projects! If you want to see them in action I have walkthroughs for all my projects.</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
